@@ -1,0 +1,8 @@
+Rodrigo Victor — Hoje às 11:52
+Vai naquele arquivo AlurakutCommon que foi dado pronto e procura pelo  export function AlurakutMenu({ githubUser })  , antes da nav vai ter uma imagem com o logo do Alurakut, no meu caso troquei por um  <h2>Yorkut</h2>(editado)
+<AlurakutMenu.Logo
+          src={`https://fontmeme.com/fontes/fonte-pollyanna/"><img src="https://fontmeme.com/permalink/210713/ee249d9249cb141e575ab9b6c0e033c2.png" alt="fonte-pollyanna" border="0"`}
+        />
+
+
+        cor #d81d99

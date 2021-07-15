@@ -21,8 +21,9 @@ export function AlurakutMenu({ githubUser }) {
   return (
     <AlurakutMenu.Wrapper isMenuOpen={isMenuOpen}>
       <div className="container">
-        <AlurakutMenu.Logo src={`${BASE_URL}/logo.svg`} />
-
+        <AlurakutMenu.Logo
+          src={`https://fontmeme.com/permalink/210713/cb20d94c6517a802f2a1730e2884fadf.png`}
+        />
         <nav style={{ flex: 1 }}>
           {[
             { name: 'Inicio', slug: '/' },
